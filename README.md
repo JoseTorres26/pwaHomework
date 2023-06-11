@@ -1,44 +1,28 @@
 # pwaHomework 
-<img style="text-align: center" src="./assets/images/PORT.jpg" alt="portfolio website" style="width:100%;height:100%"/>
+<img style="text-align: center" src="./jate.png" alt="just another text editor" style="width:100%;height:100%"/>
 </a>
 <br />
 
 ## Description
 
-
+Just Another text editor
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Questions](#Questions)
-- [License](#license)
 
 ## Installation
 
-
+uses webpack to build website.
 
 ## Usage
 
   
-
-## License
-
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-
----
-
-🏆
-
-## Badges
-
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-
-
-## Questions
+create code and save it on jate!
 
 
 
 
 
-## Tests
+
